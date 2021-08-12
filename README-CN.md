@@ -15,6 +15,8 @@
 
 🤩 **Easy & Awesome** 仅使用新训练的合成器（synthesizer）就有良好效果，复用预训练的编码器/声码器
 
+### [DEMO VIDEO](https://www.bilibili.com/video/BV1sA411P7wM/)
+
 ## 快速开始
 
 ### 1. 安装要求
